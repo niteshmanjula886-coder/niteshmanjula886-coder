@@ -45,8 +45,8 @@
 </div>
 
 <h2 align="center">🌐
-## 🐍 CONTRIBUTION MATRIX
+## 🎯 CYBERPUNK MODE
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/niteshmanjula886-coder/niteshmanjula886-coder/output/github-snake.svg" width="100%" alt="GitHub contribution snake animation" />
+  <img src="./cyberpunk_shooting_animation.gif" width="100%" alt="Animated neon-green cyberpunk shooting effect" />
 </div>
