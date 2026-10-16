@@ -45,3 +45,8 @@
 </div>
 
 <h2 align="center">🌐
+## 🐍 CONTRIBUTION MATRIX
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/niteshmanjula886-coder/niteshmanjula886-coder/output/github-snake.svg" width="100%" alt="GitHub contribution snake animation" />
+</div>
