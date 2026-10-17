@@ -1,5 +1,6 @@
-#<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001A10,50:006B3C,100:39FF88&height=200&section=header&text=NITESH-DEV&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=BUILD%20%7C%20LEARN%20%7C%20REPEAT&descAlignY=60&descSize=18" width="100%" alt="Neon green cyberpunk header" />
+<p align="center">
+  <img src="./jarvis_profile_animation.gif" alt="NITESH-DEV JARVIS Animation" width="400">
+</p>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=39FF88&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+space;Exploring+AI+and+technology;Learning+to+build+better+software;Always+building%2C+always+learning" alt="Animated developer introduction" />
 
