@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./jarvis_profile_animation.gif" alt="NITESH-DEV JARVIS Animation" width="400">
 </p>
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=39FF88&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+space;Exploring+AI+and+technology;Learning+to+build+better+software;Always+building%2C+always+learning" alt="Animated developer introduction" />
 
   <p>
