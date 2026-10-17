@@ -1,5 +1,8 @@
+
 <p align="center">
-  <img src="./jarvis_profile_animation.gif" alt="NITESH-DEV JARVIS Animation" width="400">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020805,50:063D27,100:16A765&height=220&section=header&text=NITESH-DEV&fontSize=60&fontColor=39FF88&fontAlignY=38&desc=BUILD%20%7C%20LEARN%20%7C%20REPEAT&descSize=20&descAlignY=60&animation=twinkling" width="100%" alt="Animated NITESH-DEV banner"/>
+</p>
+
 </p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=39FF88&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+space;Exploring+AI+and+technology;Learning+to+build+better+software;Always+building%2C+always+learning" alt="Animated developer introduction" />
 
